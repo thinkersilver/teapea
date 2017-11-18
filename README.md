@@ -1,6 +1,6 @@
 ## Teepee 
 
-![](teepee/images/teepee.png)
+![](/images/teepee.png)
 
 
 Teepee is a tiny utility library that creates data driven documents.
