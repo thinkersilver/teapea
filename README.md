@@ -1,4 +1,4 @@
-## Teepee 
+## Teapea
 
 ![](/images/teepee.png)
 
@@ -7,7 +7,7 @@ Teepee is a tiny utility library that creates data driven documents.
 ### Install 
 
 Clone the repo 
-``` git clone  thinkersilver/teepee```
+``` git clone  thinkersilver/teapea```
 
 or download from the releases tab then type: 
 

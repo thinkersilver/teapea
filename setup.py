@@ -1,10 +1,10 @@
 from distutils.core import setup
 
 setup(
-    name="teepee",
-    version="0.0.1",
+    name="teapea",
+    version="0.0.1.2",
     author="thinkersilver",
-    author_email="thinkersilver AT somehwere",
-    packages=["teepee"],
+    author_email="myonlineprofile2012@gmail.com",
+    packages=["teapea"],
     description="Data Driven Document library"
 ) 
